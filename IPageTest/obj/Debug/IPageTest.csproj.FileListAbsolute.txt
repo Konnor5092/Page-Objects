@@ -1,0 +1,12 @@
+C:\Users\Matthew.OConnor\documents\visual studio 2017\Projects\IPageTest\IPageTest\obj\Debug\IPageTest.csprojResolveAssemblyReference.cache
+C:\Users\Matthew.OConnor\Documents\Visual Studio 2017\Projects\IPageTest\IPageTest\bin\Debug\IPageTest.exe.config
+C:\Users\Matthew.OConnor\Documents\Visual Studio 2017\Projects\IPageTest\IPageTest\bin\Debug\IPageTest.exe
+C:\Users\Matthew.OConnor\Documents\Visual Studio 2017\Projects\IPageTest\IPageTest\bin\Debug\IPageTest.pdb
+C:\Users\Matthew.OConnor\Documents\Visual Studio 2017\Projects\IPageTest\IPageTest\bin\Debug\nunit.framework.dll
+C:\Users\Matthew.OConnor\Documents\Visual Studio 2017\Projects\IPageTest\IPageTest\bin\Debug\WebDriver.dll
+C:\Users\Matthew.OConnor\Documents\Visual Studio 2017\Projects\IPageTest\IPageTest\bin\Debug\WebDriver.Support.dll
+C:\Users\Matthew.OConnor\Documents\Visual Studio 2017\Projects\IPageTest\IPageTest\bin\Debug\nunit.framework.xml
+C:\Users\Matthew.OConnor\Documents\Visual Studio 2017\Projects\IPageTest\IPageTest\bin\Debug\WebDriver.xml
+C:\Users\Matthew.OConnor\Documents\Visual Studio 2017\Projects\IPageTest\IPageTest\bin\Debug\WebDriver.Support.xml
+C:\Users\Matthew.OConnor\Documents\Visual Studio 2017\Projects\IPageTest\IPageTest\obj\Debug\IPageTest.exe
+C:\Users\Matthew.OConnor\Documents\Visual Studio 2017\Projects\IPageTest\IPageTest\obj\Debug\IPageTest.pdb
